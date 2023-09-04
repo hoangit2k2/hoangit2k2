@@ -11,35 +11,19 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://nestjs.com" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/nestjs-icon-256x255-r03j160r.png" alt="css3" width="40" height="40"/> </a>
-
 <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/452/24/png-transparent-js-logo-node-logos-and-brands-icon.png" alt="css3" width="40" height="40"/> </a>
-
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303656/php-logo.svg" alt="css3" width="40" height="40"/> </a>
-
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353659/docker-icon.svg" alt="css3" width="40" height="40"/> </a>
-
 <a href="https://docs.aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/aws-icon-2048x2048-274bm1xi.png" alt="css3" width="40" height="40"/> </a>
-
 <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="css3" width="40" height="40"/> </a>
-
 <a href="https://spring.io/projects/spring-boot/" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/1235868806079057921/fTL08u_H_400x400.png" alt="css3" width="40" height="40"/> </a>
-
 <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://www.computerhope.com/jargon/j/javascript.png" alt="css3" width="40" height="40"/> </a>
-
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="css3" width="40" height="40"/> </a>
-
 <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/85WnuKkqDY4gf6tndeL4_Ng5vgRk7PTfmpI4vHMIosyq6XQ7ZGDXNtYG2s0b09kJMw" alt="css3" width="40" height="40"/> </a>
-
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" alt="css3" width="40" height="40"/> </a>
-
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Database-mysql.svg/424px-Database-mysql.svg.png" alt="bootstrap" width="40" height="40"/> </a>
-
 <a href="https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver16" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/256/5968/5968364.png" alt="bootstrap" width="40" height="40"/> </a>
-
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="bootstrap" width="40" height="40"/> </a>
-
 </p>
-
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=hoangit2k2&show_icons=true alt=rahuldkjain /> </p>
