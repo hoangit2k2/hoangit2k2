@@ -29,4 +29,20 @@
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=hoangit2k2&show_icons=true alt=rahuldkjain /> </p>
 
 ## Today's Weather Forecast in My Hometown.
-{{ template "weathers.md.tpl" }}
+{{ with $todayWeather := index .Weather 0 }}
+
+`{{ $todayWeather.City }}, {{ $todayWeather.Country }} - {{ formatDate $todayWeather.startTime $todayWeather.TimeZone }}`
+
+<img src = "{$todayWeather.Icon}"/>
+
+{{ $todayWeather.Condition}}
+
+{{template "hourly-table" $todayWeather.HourlyWeathers}}
+
+{{-end}}
+
+<div align = "right">
+
+*Update at: {{formatTime .UpdateAt}}
+
+</div>
