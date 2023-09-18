@@ -28,31 +28,7 @@
 </p>
 
 ## Today's Weather Forecast in My Hometown.
-
-
-<table>
-    <tr>
-        <th>Hour</th>
-        
-    </tr>
-    <tr>
-        <th>Weather</th>
-        
-    </tr>
-    <tr>
-        <th>Condition</th>
-        
-    </tr>
-    <tr>
-        <th>Temperature</th>
-        
-    </tr>
-    <tr>
-        <th>Wind</th>
-        
-    </tr>
-</table>
-
+### Vinh City, Nghe An Provice
 
 <table>
     <tr>
@@ -78,5 +54,5 @@
 </table>
 
 <div align = "right">
-2023-09-18T06:57:05Z
+2023-09-18T07:01:22Z
 </div>
