@@ -29,18 +29,8 @@
 
 ## Today's Weather Forecast in My Hometown.
 
-`{{ $todayWeather.City }}, {{ $todayWeather.Country }} - {{ formatDate $todayWeather.startTime $todayWeather.TimeZone }}`
-
-<img src = "{$todayWeather.Icon}"/>
-
-{{ $todayWeather.Condition}}
-
-{{template "hourly-table" $todayWeather.HourlyWeathers}}
-
-{{- end }}
-
+{{ template "hourly-table" $todayWeather.HourlyWeathers }}
+{{ template "daily-table" .Weathers }}
 <div align = "right">
-
-*Update at: {{formatTime .UpdateAt}}
-
+{{ formatTime .UpdatedAt }}
 </div>
