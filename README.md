@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hoang</h1>
-<h3 align="center">A backend developer</h3>
+<h3 align="center">A developer NodeJS</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,4 +26,57 @@
 <a href="https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver16" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/256/5968/5968364.png" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="bootstrap" width="40" height="40"/> </a>
 </p>
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=hoangit2k2&show_icons=true alt=rahuldkjain /> </p>
+
+## Today's Weather Forecast in My Hometown.
+
+
+<table>
+    <tr>
+        <th>Hour</th>
+        
+    </tr>
+    <tr>
+        <th>Weather</th>
+        
+    </tr>
+    <tr>
+        <th>Condition</th>
+        
+    </tr>
+    <tr>
+        <th>Temperature</th>
+        
+    </tr>
+    <tr>
+        <th>Wind</th>
+        
+    </tr>
+</table>
+
+
+<table>
+    <tr>
+        <th>Date</th>
+        <td>18/09/2023</td><td>19/09/2023</td><td>20/09/2023</td><td>21/09/2023</td><td>22/09/2023</td><td>23/09/2023</td><td>24/09/2023</td>
+    </tr>
+    <tr>
+        <th>Weather</th>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td>
+    </tr>
+    <tr>
+        <th>Condition</th>
+        <td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td>
+    </tr>
+    <tr>
+        <th>Temperature</th>
+        <td>24.9 -  31.5 °C</td><td>25 -  32 °C</td><td>25.6 -  31.5 °C</td><td>25.7 -  31.7 °C</td><td>24.9 -  30.9 °C</td><td>24.7 -  30.8 °C</td><td>24.6 -  30.6 °C</td>
+    </tr>
+    <tr>
+        <th>Wind</th>
+        <td>10.8 kph</td><td>15.1 kph</td><td>16.2 kph</td><td>17.6 kph</td><td>15.1 kph</td><td>15.5 kph</td><td>15.1 kph</td>
+    </tr>
+</table>
+
+<div align = "right">
+2023-09-18T06:57:05Z
+</div>
