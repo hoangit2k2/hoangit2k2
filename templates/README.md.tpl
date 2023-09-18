@@ -29,7 +29,7 @@
 
 ## Today's Weather Forecast in My Hometown.
 
-{{ template "hourly-table" $todayWeather.HourlyWeathers }}
+{{ template "hourly-table" }}
 {{ template "daily-table" .Weathers }}
 <div align = "right">
 {{ formatTime .UpdatedAt }}
