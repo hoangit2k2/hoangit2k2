@@ -28,8 +28,7 @@
 </p>
 
 ## Today's Weather Forecast in My Hometown.
-
-{{ template "hourly-table" }}
+Vinh City, Nghe An Provide
 {{ template "daily-table" .Weathers }}
 <div align = "right">
 {{ formatTime .UpdatedAt }}
