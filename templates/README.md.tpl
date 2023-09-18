@@ -28,7 +28,6 @@
 </p>
 
 ## Today's Weather Forecast in My Hometown.
-{{ with $todayWeather := index .Weather 0 }}
 
 `{{ $todayWeather.City }}, {{ $todayWeather.Country }} - {{ formatDate $todayWeather.startTime $todayWeather.TimeZone }}`
 
