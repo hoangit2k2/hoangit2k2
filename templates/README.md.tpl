@@ -29,4 +29,4 @@
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=hoangit2k2&show_icons=true alt=rahuldkjain /> </p>
 
 ## Today's Weather Forecast in My Hometown.
-{{ template "templates/weathers.md.tpl"}}
+{{ template "weathers.md.tpl" }}
