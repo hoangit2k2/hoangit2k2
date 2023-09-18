@@ -39,7 +39,7 @@
 
 {{template "hourly-table" $todayWeather.HourlyWeathers}}
 
-{{-end}}
+{{ - end }}
 
 <div align = "right">
 
