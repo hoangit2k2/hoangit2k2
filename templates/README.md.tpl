@@ -28,7 +28,7 @@
 </p>
 
 ## Today's Weather Forecast in My Hometown.
-Vinh City, Nghe An Provide
+### Vinh City, Nghe An Provice
 {{ template "daily-table" .Weathers }}
 <div align = "right">
 {{ formatTime .UpdatedAt }}
