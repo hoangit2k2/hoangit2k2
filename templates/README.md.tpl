@@ -26,7 +26,6 @@
 <a href="https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver16" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/256/5968/5968364.png" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="bootstrap" width="40" height="40"/> </a>
 </p>
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=hoangit2k2&show_icons=true alt=rahuldkjain /> </p>
 
 ## Today's Weather Forecast in My Hometown.
 {{ with $todayWeather := index .Weather 0 }}
