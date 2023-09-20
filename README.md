@@ -33,7 +33,7 @@
 <table>
     <tr>
         <th>Date</th>
-        <td>20/09/2023</td><td>21/09/2023</td><td>22/09/2023</td><td>23/09/2023</td><td>24/09/2023</td><td>25/09/2023</td><td>26/09/2023</td>
+        <td>21/09/2023</td><td>22/09/2023</td><td>23/09/2023</td><td>24/09/2023</td><td>25/09/2023</td><td>26/09/2023</td><td>27/09/2023</td>
     </tr>
     <tr>
         <th>Weather</th>
@@ -45,14 +45,14 @@
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.3 -  31.8 °C</td><td>25.4 -  31.5 °C</td><td>25.3 -  31.2 °C</td><td>24.8 -  31 °C</td><td>24.9 -  30.9 °C</td><td>25 -  30.8 °C</td><td>24.7 -  30.8 °C</td>
+        <td>25.4 -  31.5 °C</td><td>25.3 -  31.2 °C</td><td>24.8 -  31 °C</td><td>24.9 -  30.9 °C</td><td>25 -  30.8 °C</td><td>24.7 -  30.8 °C</td><td>24.6 -  29.9 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>16.2 kph</td><td>15.5 kph</td><td>15.8 kph</td><td>16.9 kph</td><td>16.2 kph</td><td>14.4 kph</td><td>12.6 kph</td>
+        <td>15.5 kph</td><td>15.8 kph</td><td>16.9 kph</td><td>16.2 kph</td><td>14.4 kph</td><td>12.6 kph</td><td>15.5 kph</td>
     </tr>
 </table>
 
 <div align = "right">
-2023-09-20T16:30:49Z
+2023-09-20T17:25:20Z
 </div>
