@@ -45,14 +45,14 @@
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>24.3 -  30.1 °C</td><td>24.1 -  30.2 °C</td><td>24.8 -  30.3 °C</td>
+        <td>24.3 -  30.3 °C</td><td>24.3 -  30.3 °C</td><td>24.9 -  30.3 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>13 kph</td><td>12.6 kph</td><td>13.3 kph</td>
+        <td>13.3 kph</td><td>12.6 kph</td><td>13.3 kph</td>
     </tr>
 </table>
 
 <div align = "right">
-2023-10-02T10:28:55Z
+2023-10-02T11:19:50Z
 </div>
