@@ -33,26 +33,26 @@
 <table>
     <tr>
         <th>Date</th>
-        <td>09/10/2023</td><td>10/10/2023</td><td>11/10/2023</td>
+        <td>10/10/2023</td><td>11/10/2023</td><td>12/10/2023</td>
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/308.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/308.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/308.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td><td width="200px">Heavy rain</td>
+        <td width="200px">Patchy rain possible</td><td width="200px">Heavy rain</td><td width="200px">Heavy rain</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>22.7 -  27.8 °C</td><td>22 -  25.6 °C</td><td>20.8 -  21.7 °C</td>
+        <td>22 -  25.6 °C</td><td>20.8 -  21.7 °C</td><td>20.7 -  21.6 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>15.1 kph</td><td>19.4 kph</td><td>24.8 kph</td>
+        <td>19.4 kph</td><td>24.8 kph</td><td>20.5 kph</td>
     </tr>
 </table>
 
 <div align = "right">
-2023-10-09T16:30:07Z
+2023-10-09T17:25:19Z
 </div>
