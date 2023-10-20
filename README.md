@@ -37,22 +37,22 @@
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Cloudy</td><td width="200px">Patchy rain possible</td><td width="200px">Moderate rain</td>
+        <td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td><td width="200px">Moderate rain</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>21.5 -  24 °C</td><td>20.8 -  24.8 °C</td><td>21.7 -  22.2 °C</td>
+        <td>22.3 -  24.6 °C</td><td>21.7 -  23.5 °C</td><td>21.6 -  22.9 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>16.9 kph</td><td>13.3 kph</td><td>17.6 kph</td>
+        <td>20.5 kph</td><td>14.8 kph</td><td>14.8 kph</td>
     </tr>
 </table>
 
 <div align = "right">
-2023-10-20T22:25:45Z
+2023-10-20T23:21:48Z
 </div>
