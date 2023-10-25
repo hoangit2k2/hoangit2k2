@@ -33,7 +33,7 @@
 <table>
     <tr>
         <th>Date</th>
-        <td>25/10/2023</td><td>26/10/2023</td><td>27/10/2023</td>
+        <td>26/10/2023</td><td>27/10/2023</td><td>28/10/2023</td>
     </tr>
     <tr>
         <th>Weather</th>
@@ -45,14 +45,14 @@
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>23.4 -  24.9 °C</td><td>23.6 -  27.8 °C</td><td>23.7 -  28.7 °C</td>
+        <td>23.6 -  27.8 °C</td><td>23.7 -  28.7 °C</td><td>24.3 -  27.9 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>12.2 kph</td><td>14.4 kph</td><td>11.2 kph</td>
+        <td>14.4 kph</td><td>11.2 kph</td><td>11.2 kph</td>
     </tr>
 </table>
 
 <div align = "right">
-2023-10-25T16:29:06Z
+2023-10-25T17:24:44Z
 </div>
